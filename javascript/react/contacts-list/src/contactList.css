@@ -1,0 +1,36 @@
+.contactListMain .header input {
+  padding: 10px;
+  font-family: "Papyrus" , sans-serif;
+  font-size: 16px;
+  border: 2px solid #FFF;
+  width: 165px;
+}
+.contactListMain .header button {
+  padding: 10px;
+  font-family: "Papyrus" , sans-serif;
+  font-size: 16px;
+  margin: auto 0px auto 10px;
+  background-color: #ff30a4;
+  color: #FFF;
+  border: 2px solid #fff53a;
+}
+.contactListMain .header button:hover {
+  background-color: #792a99;
+  border: 2px solid rgba(0, 0, 0, 0.99);
+  cursor: pointer;
+}
+.contactListMain .theList {
+  list-style: none;
+  padding-left: 0;
+}
+.contactListMain .theList li {
+  color: #333;
+  background-color: rgba(77, 211, 255, 0.5);
+  padding: 15px;
+  margin: 0 15px 0 0;
+  border-radius: 5px;
+}
+.contactListMain .theList li:hover {
+  background-color: #ff606a;
+  cursor: pointer;
+} 

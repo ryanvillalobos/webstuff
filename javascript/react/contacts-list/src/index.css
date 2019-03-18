@@ -1,0 +1,9 @@
+body {
+  padding: 50px;
+  background-color: #bdffba;
+  font-family: "Papyrus" , sans-serif;
+}
+#container {
+  display: flex;
+  justify-content: center;
+}
